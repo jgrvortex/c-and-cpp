@@ -1,12 +1,3 @@
-//Ejercicio1Tema4OpenGL: Crea un programa que muestre una esfera y un foco que orbita alrededor de ella. La órbita puedes
-//hacerla como prefieras (aleatoria o circular).
-
-//Nota: en lugar de una esfera como aparece en el ejemplo he utilizado 3 estructuras toroidales concéntricas que cada una
-//sigue un patrón de rotación distinto para hacer el ejercicio más interesante y profundizar más en el tema, que como
-//ya dije el otro día me resulta especialmente interesante. El único problema es que no aparecen las sombras provocadas por
-//los otros toros. He buscado información al respecto y por lo visto OpenGL, especialmente las versiones más antiguas, no tienen
-//soporte directo de sombreados aunque al parecer hay algoritmos que pueden ser implementados para añadir sombras.
-
 
 
 #include<stdlib.h>
