@@ -1,30 +1,4 @@
 
- 
-//Ejercicio de la noria
-
-/*
- *1.- Haz un programa que dibuje una noria que gire.
-
-Descripción
-
-	∙Utiliza 8 cubos para simular los compartimentos de una noria.
-
-	∙Los cubos estarán situados siempre con la base siempre orientada hacia el suelo, independientemente del movimiento de la noria.
-
-Funcionamiento
-
-	∙Al hacer click con el botón izquierdo del ratón y mover el ratón se tiene que modificar la vista rotando la noria en el eje X.
-
-	∙Al pulsar la tecla R, la noria tiene que invertir su giro.
-
- */
-
-
-
-
-
-//Como el tema de OpenGl me interesa especialmente he hecho algunas modificaciones del ejercicio para practicar y profundizar en el tema,
-//ya que todo lo que se refiere a la programación gráfica empleando primitivas me resulta especialmente interesante.
 
 //Con la tecla 'e' y 'E' se encience y apaga la noria
 //Con la tecla 'r' y 'R' se cambia de sentido
